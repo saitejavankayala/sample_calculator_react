@@ -1,4 +1,4 @@
-#You can checkout the app in this ulr [sample-calculator](https://sample-react-calculator.web.app/).
+# You can checkout the app in this ulr [sample-calculator](https://sample-react-calculator.web.app/).
 
 
 # Getting Started with Create React App
